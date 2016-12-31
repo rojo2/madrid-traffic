@@ -1,0 +1,15 @@
+[submodule "front"]
+	path = front
+	url = git@github.com:rojo2/madrid-traffic-front
+[submodule "docker"]
+	path = docker
+	url = git@github.com:rojo2/madrid-traffic-docker
+[submodule "data"]
+	path = data
+	url = git@github.com:rojo2/madrid-traffic-data
+[submodule "scraper"]
+	path = scraper
+	url = git@github.com:rojo2/madrid-traffic-scraper
+[submodule "api"]
+	path = api
+	url = git@github.com:rojo2/madrid-traffic-api
