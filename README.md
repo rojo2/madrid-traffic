@@ -45,4 +45,9 @@ cd madrid-traffic && git submodule update --init --recursive
 cd docker && docker-compose up
 ```
 
+## Arrancar el entorno en Windows (con PowerShell)
 
+Necesitarás tener instalado `git` en PowerShell para ello instala [posh-git](https://github.com/dahlbyk/posh-git), siguiendo [esta guía](https://git-scm.com/book/es/v2/Git-in-Other-Environments-Git-in-Powershell) de `git`
+es fácil.
+
+Hecho con :heart: por ROJO 2 (http://rojo2.com)
